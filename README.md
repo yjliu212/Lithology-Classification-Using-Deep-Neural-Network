@@ -23,7 +23,7 @@ The prediction confidence are also generated:
 In the second notebook, we added a new class Hydrocarbon Sand (HC Sand) to the previous dataset, so now 0 represents shale, 1 represents sand and 2 represents HC sand. This created more complexity to the training dataset. Again, 80% of the dataset are used for training, and 20% of the dataset are used for testing.
 ![image](https://github.com/user-attachments/assets/69d58263-f8b7-4a60-aff4-e9fafac9bc8f)
 
-After 20 epochs of training, the DNN model capture the partern and successfully seperated the data points in the testing dataset:
+After 20 epochs of training, the DNN model captured the partern and successfully seperated the data points in the testing dataset:
 ![image](https://github.com/user-attachments/assets/e22ae2ae-b9b1-4aa5-b46b-58b8319b47f4)
 
 ## Discussion
