@@ -1,4 +1,4 @@
-https://github.com/yjliu212/Lithology-Classification-Using-Deep-Neural-Network/blob/main/Assignment_3b_Lithology_Multi_Classification_Prediction.ipynb# Lithology-Classification-Using-Deep-Neural-Network
+# https://github.com/yjliu212/Lithology-Classification-Using-Deep-Neural-Network/blob/main/Assignment_3b_Lithology_Multi_Classification_Prediction.ipynb# Lithology-Classification-Using-Deep-Neural-Network
 
 ## [Notebook 1](https://github.com/yjliu212/Lithology-Classification-Using-Deep-Neural-Network/blob/main/Assignment_3_Lithology_Classification_Prediction.ipynb)
 
