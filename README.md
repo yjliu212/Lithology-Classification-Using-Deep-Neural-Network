@@ -27,4 +27,4 @@ After 20 epochs of training, the DNN model captured the partern and successfully
 ![image](https://github.com/user-attachments/assets/e22ae2ae-b9b1-4aa5-b46b-58b8319b47f4)
 
 ## Discussion
-This experiment shows that DNN is power in classify lithology based on Vp, Density and Pr, as what we do in conventional rock physics applications. Without knowing the physics of how shale, sand and HC sand seperate from each other in Ip vs Pr domain, DNN learned from the training dataset and their class then predict the testing data's classification successfully. The confidence level can also be generated for each of the data point.
+This experiment shows that DNN is powerful to learn how to classify lithology based on Vp, Density and Pr, as what we usually do in conventional rock physics applications. Without knowing the physics of how shale, sand and HC sand can be seperated from each other using Ip vs Pr crossplot, the DNN learned from the training dataset then predicted the testing data's classification successfully. The confidence level are also be generated to give more insight to the prediction.
